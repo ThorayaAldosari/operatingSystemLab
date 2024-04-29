@@ -11,5 +11,4 @@ public class Player {
         return nickname;
     }
 
-    // You can add more methods and fields as needed for your project
 }
